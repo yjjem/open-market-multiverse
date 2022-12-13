@@ -10,7 +10,7 @@ This project has started in **December 10th 2022**
 - 
 
 ## API
-🏬 [**Wallmart Marketplace API**](https://ko.wikipedia.org/wiki/NewJeans) (Canada)
+🏬 [**Wallmart Marketplace API**](https://developer.walmart.com/doc/us/mp/us-mp-intro/) (Canada)
 - [**Item Management API**](https://developer.walmart.com/doc/us/mp/us-mp-items/)
 - [**Price Management API**](https://developer.walmart.com/doc/us/mp/us-mp-price/)
 
